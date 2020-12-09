@@ -1,0 +1,62 @@
+.logokutu{
+    width: 150px;
+    height: 150px;
+    border: 2px;
+    border-color: rgb(187, 169, 169);
+}
+.logo{
+ width: 50px;
+ height: 50px; 
+ margin-left: 80px;
+}
+.evtemizligi{
+    width: 700px;
+    height: 400px;
+    background-color: rgb(95, 86, 86);
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.semt{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.ilce{
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.evinizgaçgatlı{
+    width: 700px;
+    height: 100px;
+    background-color: blue;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+.temizliksure{
+    width: 700px;
+    height: 100px;
+    background-color: burlywood;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+.ekhizmetler{
+    width: 700px;
+    height: 400px;
+    background-color: rgb(126, 77, 77);
+    margin-top: 25px;
+    margin-left: 80px;
+}
+.evcilhayvan{
+    width: 700px;
+    height: 300px;
+    background-color: rgb(149, 134, 167);
+    margin-top: 25px;
+    margin-left: 80px;
+}
+.sonkisim{
+    width: 700px;
+    height: 500px;
+    background-color: darkorchid;
+    margin-top: 25px;
+    margin-left: 80px;
+}
